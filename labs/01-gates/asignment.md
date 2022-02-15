@@ -1,4 +1,4 @@
-# Lab 1: Adam Neradilek
+# Lab 01: Adam Neradilek
 
 ### De Morgan's laws
 
