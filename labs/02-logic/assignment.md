@@ -47,7 +47,7 @@
 
 2. Text console screenshot during your simulation, including reports.
 
-   ![your figure]()
+   ![your figure](https://github.com/xnerad04/digital-electronics-1/blob/main/Report.JPG)
 
 3. Link to your public EDA Playground example:
 
