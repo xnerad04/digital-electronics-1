@@ -22,8 +22,18 @@ begin
     begin
         if rising_edge(clk) then
 
-        -- WRITE YOUR CODE HERE
-
+            if (rst = '1') then
+                    s_q <= '0';
+                
+                else
+                    if (t = '1') then
+                        s_q <= not s_q;
+                    else    
+                        s_q <= s_q;  
+                    end if;
+                          
+            end if;
+            
         end if;
     end process p_t_ff_rst;
 
