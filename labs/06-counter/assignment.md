@@ -31,7 +31,18 @@
 
 3. full
    ![full](https://github.com/xnerad04/digital-electronics-1/blob/main/labs/06-counter/counter_1.JPG)
+
+
+4. reset
+   ![reset](https://github.com/xnerad04/digital-electronics-1/blob/main/labs/06-counter/counter_2.JPG)
    
+
+5. cnt_up_down
+   ![cnt_up_down](https://github.com/xnerad04/digital-electronics-1/blob/main/labs/06-counter/counter_3.JPG)
+   
+
+6. enable
+   ![enable](https://github.com/xnerad04/digital-electronics-1/blob/main/labs/06-counter/counter_4.JPG)
    
 
 ### Two counters
