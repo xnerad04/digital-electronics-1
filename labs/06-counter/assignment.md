@@ -29,8 +29,8 @@
 
 2. Screenshot with simulated time waveforms. Test reset as well. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-1. full
-   ![your figure]()
+3. full
+   ![full](https://github.com/xnerad04/digital-electronics-1/blob/main/labs/06-counter/counter_1.JPG)
    
    
 
